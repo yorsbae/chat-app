@@ -1,8 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-import './Chat.css'
+import './ProfieUpdate.css'
 
-const Chat = () => {
+const ProfileUpdate = () => {
   return (
     <div>
       
@@ -10,4 +10,4 @@ const Chat = () => {
   )
 }
 
-export default Chat
+export default ProfileUpdate
